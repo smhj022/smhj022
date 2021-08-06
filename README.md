@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suyash Mahajan.
 - 👀 I’m interested in Python programming.
-- 🌱 I’m currently learning Flask framework.
+- 🌱 I’m currently learning Django framework.
 - 💞️ I’m looking to collaborate on python project.
 - 📫 How to reach me send a mail.
 
